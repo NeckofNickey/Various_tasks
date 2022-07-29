@@ -1,1 +1,1 @@
-Statistics_tasks/.ipynb_checkpoints/
+*.ipynb_checkpoints
